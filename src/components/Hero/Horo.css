@@ -1,0 +1,16 @@
+.costomF{
+    font-family:  'mrs-wintermouse', sans-serif;
+    color: red;
+}
+.hero-card{
+    border: 1px solid #000;
+    background: #fffffa;
+    box-shadow: 3px 3px 0 #000;
+    border-radius: 20px;
+}
+.card-item{
+    border: 1px solid #000;
+    background: #ffffff;
+    box-shadow: 3px 3px 0 #000;
+    border-radius: 12px;
+}
